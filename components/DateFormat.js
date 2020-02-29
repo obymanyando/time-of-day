@@ -22,7 +22,7 @@ let year = d.getFullYear()
 let date = d.getDate()
 
 let monthName = months[d.getMonth()]
-let dayName = days[d.getDay()]
+//let dayName = days[d.getDay()]
 
 const DateFormat = months => {
 	return (
